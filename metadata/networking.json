@@ -1,0 +1,44 @@
+[
+    {
+        "sourceRegionID": 8,
+        "destinationRegionID": 8,
+        "bandwidth": 12.80104032,
+        "latency": 268.78
+    },
+    {
+        "sourceRegionID": 8,
+        "destinationRegionID": 15,
+        "bandwidth": 12.80104032,
+        "latency": 546.4
+    },
+    {
+        "sourceRegionID": 15,
+        "destinationRegionID": 8,
+        "bandwidth": 12.80104032,
+        "latency": 546.4
+    },
+    {
+        "sourceRegionID": 15,
+        "destinationRegionID": 15,
+        "bandwidth": 12.15,
+        "latency": 265
+    },
+    {
+        "sourceRegionID": 15,
+        "destinationRegionID": 18,
+        "bandwidth": 12.53,
+        "latency": 409.58
+    },
+    {
+        "sourceRegionID": 18,
+        "destinationRegionID": 15,
+        "bandwidth": 12.35,
+        "latency": 409.58
+    },
+    {
+        "sourceRegionID": 18,
+        "destinationRegionID": 18,
+        "bandwidth": 6.61,
+        "latency": 237.07
+    }
+]

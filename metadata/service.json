@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "type": "FACEREC_AWS",
+        "providerID": 1
+    },
+    {
+        "id": 3,
+        "type": "FILE_DL",
+        "providerID": 1
+    },
+    {
+        "id": 4,
+        "type": "FILE_UP",
+        "providerID": 1
+    },
+    {
+        "id": 5,
+        "type": "DT_REMOVE",
+        "providerID": 1
+    },
+    {
+        "id": 6,
+        "type": "UT_REMOVE",
+        "providerID": 1
+    }
+]

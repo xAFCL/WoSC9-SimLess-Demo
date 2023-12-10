@@ -1,0 +1,23 @@
+[
+    {
+        "id": 2,
+        "serviceID": 1,
+        "regionID": 15,
+        "velocity": 0.012,
+        "startup": 555
+    },
+    {
+        "id": 3,
+        "serviceID": 1,
+        "regionID": 18,
+        "velocity": 0.012,
+        "startup": 555
+    },
+    {
+        "id": 4,
+        "serviceID": 1,
+        "regionID": 8,
+        "velocity": 0.012472392,
+        "startup": 546.4
+    }
+]

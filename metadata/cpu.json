@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "provider": 1,
+        "region": null,
+        "name": "Intel Xeon E5-2670 v2 @ 2.50GHz",
+        "parallel": 1,
+        "MIPS": 0.47,
+        "from_percentage": 0,
+        "to_percentage": 100
+    },
+    {
+        "id": 2,
+        "provider": 3,
+        "region": null,
+        "name": null,
+        "parallel": 0,
+        "MIPS": 5.52,
+        "from_percentage": 0,
+        "to_percentage": 100
+    },
+    {
+        "id": 3,
+        "provider": 3,
+        "region": null,
+        "name": null,
+        "parallel": 1,
+        "MIPS": 0.49,
+        "from_percentage": 0,
+        "to_percentage": 75
+    },
+    {
+        "id": 4,
+        "provider": 3,
+        "region": null,
+        "name": null,
+        "parallel": 1,
+        "MIPS": 5.52,
+        "from_percentage": 75,
+        "to_percentage": 100
+    }
+]
